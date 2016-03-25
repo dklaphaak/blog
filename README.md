@@ -1,0 +1,2 @@
+# blog
+simple rails blog
